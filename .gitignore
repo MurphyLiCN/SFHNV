@@ -19,9 +19,6 @@ Thumbs.db
 *.so
 *.dll
 
-# roxygen2 
-man/
-
 # devtools/buildtools 
 *.Rcheck/
 *.tar.gz
