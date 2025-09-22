@@ -1,3 +1,46 @@
 .DS_Store
+Thumbs.db
+
 .Rproj.user
+.Rproj.user/
+
 .Rhistory
+.Rapp.history
+
+.RData
+.Rtmp/
+*~
+
+.Renviron
+.Rprofile
+
+# Rcpp 
+*.o
+*.so
+*.dll
+
+# roxygen2 
+man/
+
+# devtools/buildtools 
+*.Rcheck/
+*.tar.gz
+_pkgdown.yml
+pkgdown/
+vignettes/*.html
+vignettes/*.log
+
+# Knitr/RMarkdown 
+*_cache/
+/cache/
+*__cache/
+/__cache/
+*.html
+*.pdf
+*.docx
+*.md
+*.tex
+
+# Shiny App
+rsconnect/
+*.log
