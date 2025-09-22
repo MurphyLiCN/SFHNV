@@ -8,6 +8,7 @@ Description: Implements the structural forest methodology for the heterogeneous
     newsvendor model. The package provides tools to prepare data, fit honest
     newsvendor trees and forests, and obtain point and distributional predictions
     for demand decisions under uncertainty.
+URL: https://github.com/MurphyLiCN/SFHNV
 License: MIT + file LICENSE
 Depends: R (>= 3.6)
 Imports: stats
