@@ -25,7 +25,15 @@ If you use this repository or the Structural Forest (SF) methodology, please cit
 - Comprehensive tests and CRAN-ready checks included in `tools/run_package_checks.R`.
 
 ## Installation
-The package targets R (>= 3.6). Until the package is published on CRAN, install from GitHub or from a source tarball.
+The package targets R (>= 3.6). 
+
+The package is published on CRAN, to install from CRAN:
+
+```r
+install.packages("remotes")
+```
+
+Install from GitHub or from a source tarball.
 
 ```r
 # install.packages("remotes")
