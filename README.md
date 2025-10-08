@@ -30,7 +30,7 @@ The package targets R (>= 3.6).
 The package is published on CRAN, to install from CRAN:
 
 ```r
-install.packages("remotes")
+install.packages("SFHNV")
 ```
 
 Install from GitHub or from a source tarball.
