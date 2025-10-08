@@ -8,6 +8,15 @@ and utilities for point and distributional predictions of demand under uncertain
 <!-- Add workflow or coverage badges once available -->
 <!-- badges: end -->
 
+## Citation
+
+If you use this repository or the Structural Forest (SF) methodology, please cite:
+
+> Li, M., Zhang, W., & Wang, G. (2024).  
+> *A Structural Forest Estimation of Heterogeneous Newsvendor Models.*  
+> Working paper, Fudan University, Indiana University Bloomington, and University of Texas at Dallas.
+
+
 ## Key Features
 - End-to-end workflow: `NW_prepare()` → `NW_Tree()`/`build_random_forest()` → prediction helpers.
 - Honest tree construction with demand-distribution estimation in every leaf.
@@ -112,10 +121,4 @@ Issues and pull requests are welcome. When contributing:
 ## License
 Released under the MIT License. See `inst/LICENSE.md` for the full text.
 
-## Citation
 
-If you use this repository or the Structural Forest (SF) methodology, please cite:
-
-> Li, M., Zhang, W., & Wang, G. (2024).  
-> *A Structural Forest Estimation of Heterogeneous Newsvendor Models.*  
-> Working paper, Fudan University, Indiana University Bloomington, and University of Texas at Dallas.
