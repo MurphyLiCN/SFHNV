@@ -34,7 +34,7 @@ NULL
 
 .gamma_hat_from_I <- function(I_bar) (1 / I_bar) - 1
 
-.variance_from_I <- function(I_bar, n) (1 - I_bar) / (n * I_bar^3)
+.variance_from_I <- function(I_bar, n) (1 - I_bar) / (I_bar^3)
 
 .features_matrix <- function(observations, feature_names) {
   stopifnot(is.data.frame(observations))

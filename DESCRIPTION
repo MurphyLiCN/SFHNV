@@ -1,7 +1,7 @@
 Package: SFHNV
 Type: Package
 Title: Structural Forest for the Heterogeneous Newsvendor Model
-Version: 0.1.0
+Version: 0.1.1
 Authors@R:
     person("Mengfei", "Li", email = "murphy.li.cn@gmail.com", role = c("aut", "cre"))
 Description: Implements the structural forest methodology for the heterogeneous
